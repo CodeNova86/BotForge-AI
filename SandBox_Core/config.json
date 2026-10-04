@@ -1,0 +1,16 @@
+[
+  {
+    "name": "test",
+    "path": "/home/codenova_dev86/BotForge-AI/SandBox_Core/scripts/test.py",
+    "requirements": [
+      "pyTelegramBotAPI"
+    ]
+  },
+  {
+    "name": "echo_bot",
+    "path": "/home/codenova_dev86/BotForge-AI/SandBox_Core/scripts/echo_bot.py",
+    "requirements": [
+      "pyTelegramBotAPI"
+    ]
+  }
+]
